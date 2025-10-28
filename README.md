@@ -1,4 +1,4 @@
-# Bright-Coffee-Shop Sales-Analysis
+# Bright-Coffee-Shop-Sales-Analysis
 This repository contains a comprehensive sales analysis for bright coffee shop chain operating across three locations. Covering the period from January to June 2025, the project explores income trends, customer purchasing behavior, and product performance. The goal is to uncover actionable insights and develop data-driven strategies to drive sales growth and enhance customer engagement.
 Key Takeaways
 
@@ -45,24 +45,24 @@ Sales volume during the day (highest to lowest):
 
 📂 Project Files
 
- Objective Description – Information File
+ Objective Description(Information File) -
     Explains the goals of the project and what tasks need to be completed.
     
- Bright Coffee Shop Sales – Input CSV
+ Bright Coffee Shop Sales(Input CSV) -
     Includes raw sales data from January to June 2023 across all coffee shop locations.
 
  Working Files
- Sales Analysis – Output Excel File
+ Sales Analysi(Output Excel File) -
       Contains the results from SQL queries, used to create charts and insights in the "Pivot tables" tab.
       
- Project Planning – Word Document
+ Project Planning(Word Document) -
     Outlines the activities used to do the project.
 
  Final Output Files
- Results Final Report – Presentation Document
+ Results Final Report(Presentation Document) -
     Presents the full analysis with key highlights and recommendations for improving sales.
     
- Coffee Shop SQL Script – Output SQL File
+ Coffee Shop SQL Script(Output SQL File) -
     Includes all the SQL code used to extract and analyze the sales data.
 
 🛠️ Tools & Technologies
