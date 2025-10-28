@@ -5,15 +5,15 @@ Key Takeaways
 📍 Income Distribution Per Location
 - Three store locations contributed nearly equally to total income.
 
-🗓️ Monthly Income Growth
-Income continued slightly increasings from January to June.
+🗓️ Monthly Income Growth<br>
+Income continued slightly increasings from January to June.<br>
 The monthly contribution to the total income:
 - January - 11%
 - February - 11%
 - March - 14%
 - April - 17%
 - May - 22%
-- June - 24%
+- June - 24% <br>
 Stable unit pricing is reflected in the uniform rate of increase in quantity sold.
 
 ☕ Product Category Contribution  
@@ -26,11 +26,11 @@ Stable unit pricing is reflected in the uniform rate of increase in quantity sol
 - Loose Tea - 1%
 - Branded - 0.60%
 - Package Chocolate - 0.41%<br>
-Coffee ,Tea & Bakery products make up about 84% of the total income.
+Coffee ,Tea & Bakery products make up about 84% of the total income.<br>
 Other items (e.g gourmet beans, hot chocolate) make up the remaining 17%.
 
-🕒 Day Classification Sales Pattern
-Sales volume during the day (highest to lowest):
+🕒 Day Classification Sales Pattern<br>
+Sales volume during the day (highest to lowest):<br>
 1.Morning
 2.Afternoon
 3.Evening
