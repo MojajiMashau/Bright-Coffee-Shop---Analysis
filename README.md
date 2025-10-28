@@ -8,12 +8,12 @@ Three store locations contributed nearly equally to total income.
 🗓️ Monthly Income Growth
 Income continued slightly increasings from January to June.
 The monthly contribution to the total income:
-January - 11%
-February - 11%
-March - 14%
-April - 17%
-May - 22%
-June - 24%
+-January - 11%
+-February - 11%
+-March - 14%
+-April - 17%
+-May - 22%
+-June - 24%
 Stable unit pricing is reflected in the uniform rate of increase in quantity sold.
 
 ☕ Product Category Contribution  
