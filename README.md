@@ -2,10 +2,10 @@
 This repository contains a comprehensive sales analysis for bright coffee shop chain operating across three locations. Covering the period from January to June 2025, the project explores income trends, customer purchasing behavior, and product performance. The goal is to uncover actionable insights and develop data-driven strategies to drive sales growth and enhance customer engagement.
 Key Takeaways
 
-📍 Income Distribution Per Location
-- Three store locations contributed nearly equally to total income.
+📍 **Income Distribution Per Location**
+ Three store locations contributed nearly equally to total income.
 
-🗓️ Monthly Income Growth<br>
+🗓️ **Monthly Income Growth** <br>
 Income continued slightly increasings from January to June.<br>
 The monthly contribution to the total income:
 - January - 11%
@@ -16,7 +16,7 @@ The monthly contribution to the total income:
 - June - 24% <br>
 Stable unit pricing is reflected in the uniform rate of increase in quantity sold.
 
-☕ Product Category Contribution  
+☕ **Product Category Contribution**  
 - Coffee - 39%
 - Tea - 30%
 - Bakery - 16%
@@ -29,13 +29,13 @@ Stable unit pricing is reflected in the uniform rate of increase in quantity sol
 Coffee ,Tea & Bakery products make up about 84% of the total income.<br>
 Other items (e.g gourmet beans, hot chocolate) make up the remaining 17%.
 
-🕒 Day Classification Sales Pattern<br>
+🕒 **Day Classification Sales Pattern**<br>
 Sales volume during the day (highest to lowest):<br>
 1.Morning(06:00 - 11:59)<br>
 2.Afternoon(12:00 - 16:59)<br>
 3.Evening(17:00 - 20-00)
 
-📈 Recommendations to increase sales
+📈 **Recommendations to increase sales**
  1. Loyalty and retention strategies
  2. Train staff for upselling
  3. Optimize the menu for profitability
@@ -43,7 +43,7 @@ Sales volume during the day (highest to lowest):<br>
  5. Improve layout and flow
  6. Use data to drive promotions
 
-📂 Project Files
+📂 **Project Files**
 
  Objective Description(Information File) -
     Explains the goals of the project and what tasks need to be completed.
@@ -65,7 +65,7 @@ Sales volume during the day (highest to lowest):<br>
  Coffee Shop SQL Script(Output SQL File) -
     Includes all the SQL code used to extract and analyze the sales data.
 
-🛠️ Tools & Technologies
+🛠️ **Tools & Technologies**
 - SQL (Standard)
 - Snowflake Cloud Platform
 - MS Excel
