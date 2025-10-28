@@ -25,7 +25,7 @@ Stable unit pricing is reflected in the uniform rate of increase in quantity sol
 - Coffee beans - 1%
 - Loose Tea - 1%
 - Branded - 0.60%
-- Package Chocolate - 0.41%
+- Package Chocolate - 0.41%<br>
 Coffee ,Tea & Bakery products make up about 84% of the total income.
 Other items (e.g gourmet beans, hot chocolate) make up the remaining 17%.
 
