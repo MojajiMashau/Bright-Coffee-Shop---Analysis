@@ -3,29 +3,29 @@ This repository contains a comprehensive sales analysis for bright coffee shop c
 Key Takeaways
 
 📍 Income Distribution Per Location
-Three store locations contributed nearly equally to total income.
+- Three store locations contributed nearly equally to total income.
 
 🗓️ Monthly Income Growth
 Income continued slightly increasings from January to June.
 The monthly contribution to the total income:
--January - 11%
--February - 11%
--March - 14%
--April - 17%
--May - 22%
--June - 24%
+- January - 11%
+- February - 11%
+- March - 14%
+- April - 17%
+- May - 22%
+- June - 24%
 Stable unit pricing is reflected in the uniform rate of increase in quantity sold.
 
 ☕ Product Category Contribution  
-Coffee - 39%
-Tea - 30%
-Bakery - 16%
-Drinking Chocolate - 8%
-Flavours - 4%
-Coffee beans - 1%
-Loose Tea - 1%
-Branded - 0.60%
-Package Chocolate - 0.41%
+- Coffee - 39%
+- Tea - 30%
+- Bakery - 16%
+- Drinking Chocolate - 8%
+- Flavours - 4%
+- Coffee beans - 1%
+- Loose Tea - 1%
+- Branded - 0.60%
+- Package Chocolate - 0.41%
 Coffee ,Tea & Bakery products make up about 84% of the total income.
 Other items (e.g gourmet beans, hot chocolate) make up the remaining 17%.
 
@@ -66,7 +66,7 @@ Sales volume during the day (highest to lowest):
     Includes all the SQL code used to extract and analyze the sales data.
 
 🛠️ Tools & Technologies
-SQL (Standard)
-Snowflake Cloud Platform
-MS Excel
-Canva (presentation)
+- SQL (Standard)
+- Snowflake Cloud Platform
+- MS Excel
+- Canva (presentation)
