@@ -31,9 +31,9 @@ Other items (e.g gourmet beans, hot chocolate) make up the remaining 17%.
 
 🕒 Day Classification Sales Pattern<br>
 Sales volume during the day (highest to lowest):<br>
-1.Morning
-2.Afternoon
-3.Evening
+1.Morning(06:00 - 11:59)<br>
+2.Afternoon(12:00 - 16:59)<br>
+3.Evening(17:00 - 20-00)
 
 📈 Recommendations to increase sales
  1. Loyalty and retention strategies
